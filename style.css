@@ -1,0 +1,91 @@
+#form1 label
+
+body{
+width:1170px;
+
+}
+
+legend{
+  font-weight: 100;
+  font-weight: bold;
+  margin-left: 20px;
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+
+ #first{
+  width:190px;
+  margin-left: 20px;
+  height: 25px;
+}
+
+#last{
+  width:200px;
+  height:25px;
+  margin-left: 20px;
+}
+
+ #email {
+  width:420px;
+  height:25px;
+  margin-left: 20px;
+}
+
+ #advertise{
+  margin-left: 20px;
+  width:420px;
+  height: 30px;
+}
+
+.texte{
+  height: 200px;
+  width: 400px;
+  margin-left: 20px;
+}
+ #bouton {
+  background-color:#0000CD;
+  text-decoration-color: white;
+  width: 90px;
+  height: 30px;
+
+}
+
+#form2
+
+header{
+  background-color: black;
+  height: 30px;
+}
+
+h1{
+  border-bottom: 2px solid grey;
+  width: 800px;
+  margin-left: 20px;
+}
+label{
+  margin-left: 20px;
+
+}
+
+#field{
+  margin-left: 60px;
+  border-radius: 5px;
+  width: 300px;
+  height: 30px;
+  margin-bottom: 20px;
+}
+
+#email2{
+  margin-left: 60px;
+  border-radius: 5px;
+  width: 300px;
+  height: 30px;
+}
+
+#telephone{
+  margin-left: 31px;
+  border-radius: 5px;
+  width: 300px;
+  height: 30px;
+  margin-top:20px;
+}
